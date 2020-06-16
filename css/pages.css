@@ -233,8 +233,8 @@
 }
 
 .bottone-black:hover {
-    color: #F5F4F4;
-    background-color: #3C3C3B;
+    color: #F5F4F4!important;
+    background-color: #3C3C3B!important;
     transition-duration: 0.5s;
     text-decoration: none;
 }
