@@ -2,6 +2,19 @@
 <html lang="en" overflow="hidden">
 
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-169706219-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-169706219-1');
+
+    </script>
 
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -69,8 +82,8 @@
                 </a>
             </li>
         </ul>
-        
-        
+
+
         <!-- Page -->
         <div class="margin-page">
             <div class="testo">
@@ -179,7 +192,7 @@
         </ul>
     </div>
 
-            <script>
+    <script>
         $('html').css('overflow', 'hidden');
         $('body').append('<div id="loading"><div class="loading-lambda" data-text="λ">λ</div></div>');
         $(window).on('load', function() {
@@ -192,6 +205,7 @@
                 $("#loading").remove();
             });
         }
+
     </script>
 </body>
 

@@ -2,6 +2,20 @@
 <html lang="en" overflow="hidden">
 
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-169706219-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-169706219-1');
+
+    </script>
+
 
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -23,7 +37,7 @@
     <meta name="author" content="Alessia Musio">
     <meta name="copyright" content="Alessia Musio" />
     <link rel="shortcut icon" type="image/png" href="favicon.png?" />
-    
+
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
@@ -53,7 +67,7 @@
 
 <body>
     <div class="site">
-        
+
         <!-- Navbar -->
         <ul class="nav justify-content-between fixed-top stiky">
             <li class="nav-item">
@@ -235,7 +249,7 @@
         </ul>
     </div>
 
-       <script>
+    <script>
         $('html').css('overflow', 'hidden');
         $('body').append('<div id="loading"><div class="loading-lambda" data-text="λ">λ</div></div>');
         $(window).on('load', function() {
@@ -248,6 +262,7 @@
                 $("#loading").remove();
             });
         }
+
     </script>
 </body>
 
