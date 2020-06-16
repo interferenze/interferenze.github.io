@@ -378,7 +378,7 @@
     .line-through:hover::after {
         content: "";
         position: absolute;
-        bottom: 12px;
+        bottom: 10px;
         left: 0;
         height: 1px;
         width: 100%;
