@@ -17,6 +17,11 @@ $(document).ready(function () {
     $(".bottone-oceania").css("color", "#3C3C3B");
     $(".bottone-oceania").css("background-color", "#F5F4F4");
 
+    $(".bottone-continenti").mouseenter(function () {
+        $(this).css("color", "#F5F4F4");
+        $(this).css("background-color", "#3C3C3B");
+    });
+
     $(".bottone-america").click(function () {
         $("#africa").css("opacity", "0");
         $("#asia").css("opacity", "0");
@@ -34,11 +39,6 @@ $(document).ready(function () {
         $(".bottone-europa").css("background-color", "#F5F4F4");
         $(".bottone-oceania").css("color", "#3C3C3B");
         $(".bottone-oceania").css("background-color", "#F5F4F4");
-    });
-
-    $(".bottone-continenti").mouseenter(function () {
-        $(this).css("color", "#F5F4F4");
-        $(this).css("background-color", "#3C3C3B");
     });
 
     $(".bottone-europa").click(function () {
@@ -116,5 +116,5 @@ $(document).ready(function () {
         $(".bottone-oceania").css("color", "#3C3C3B");
         $(".bottone-oceania").css("background-color", "#F5F4F4");
     });
-
+    
 });
