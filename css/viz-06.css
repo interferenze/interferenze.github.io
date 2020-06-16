@@ -1,0 +1,113 @@
+svg {
+    cursor: default;
+}
+
+.studio {
+    transition-duration: 0.3s;
+    mix-blend-mode: multiply;
+}
+
+.pagina {
+    transition-duration: 0.3s;
+    mix-blend-mode: multiply;
+}
+
+.viz-06-0 {
+    fill: #3C3C3B;
+}
+
+.viz-06-1 {
+    font-family: 'HK Grotesk', sans-serif;
+    font-weight: bold;
+}
+
+.viz-06-2 {
+    font-size: 0.9em;
+}
+
+.viz-06-3 {
+    fill: #7596BB;
+}
+
+.viz-06-4 {
+    fill: none;
+}
+
+.viz-06-5 {
+    font-family: 'HK Grotesk', sans-serif;
+    font-weight: 300;
+}
+
+.viz-06-6 {
+    font-size: 0.9em;
+}
+
+.viz-06-7 {
+    fill: #F4A78F;
+}
+
+.viz-06-8 {
+    fill: #B1B1B1;
+}
+
+.viz-06-9 {
+    font-family: 'HK Grotesk', sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.viz-06-10 {
+    font-size: 10px;
+}
+
+.viz-06-11 {
+    opacity: 0.8;
+    fill: none;
+    stroke: #7596BB;
+    stroke-width: 1.5;
+}
+
+.viz-06-12 {
+    opacity: 0.8;
+    fill: none;
+    stroke: #B1B1B1;
+    stroke-width: 1.5;
+}
+
+.viz-06-13 {
+    opacity: 0.8;
+    fill: none;
+    stroke: #F4A78F;
+    stroke-width: 1.5;
+}
+
+.viz-06-14 {
+    opacity: 0.8;
+    fill: #7596BB;
+    stroke: #FFFFFF;
+    stroke-width: 1.5;
+    mix-blend-mode: multiply;
+}
+
+.viz-06-15 {
+    opacity: 0.8;
+    fill: #B1B1B1;
+    stroke: #FFFFFF;
+    stroke-width: 1.5;
+    mix-blend-mode: multiply;
+}
+
+.viz-06-16 {
+    opacity: 0.8;
+    fill: #F4A78F;
+    stroke: #FFFFFF;
+    stroke-width: 1.5;
+    mix-blend-mode: multiply;
+}
+
+.viz-06-17 {
+    opacity: 0.8;
+    fill: none;
+    stroke: #9C9B9B;
+    stroke-width: 1.5;
+}

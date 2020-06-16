@@ -1,0 +1,125 @@
+svg {
+    cursor: default;
+}
+
+.cerchi {
+    transition-duration: 0.5s;
+    mix-blend-mode: multiply;
+}
+
+.viz-07-0 {
+    fill: #FCC658;
+}
+
+.viz-07-1 {
+    fill: none;
+}
+
+.viz-07-2 {
+    fill: #3C3C3B;
+}
+
+.viz-07-3 {
+    font-family: 'HK Grotesk', sans-serif;
+    font-weight: 300;
+}
+
+.viz-07-4 {
+    font-size: 0.9em;
+}
+
+.viz-07-5 {
+    fill: #97AF6E;
+}
+
+.viz-07-6 {
+    fill: #CD5156;
+}
+
+.viz-07-7 {
+    fill: #A0B4D8;
+}
+
+.viz-07-8 {
+    fill: none;
+    stroke: #3C3C3B;
+    stroke-width: 0.25;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+
+.viz-07-9 {
+    font-size: 10px;
+}
+
+.viz-07-10 {
+    fill: none;
+    stroke: #3C3C3B;
+    stroke-width: 0.25;
+    stroke-miterlimit: 10;
+}
+
+.viz-07-11 {
+    fill: none;
+    stroke: #3C3C3B;
+    stroke-width: 0.25;
+    stroke-miterlimit: 10;
+    stroke-dasharray: 3.0099, 3.0099;
+}
+
+.viz-07-12 {
+    fill: #575756;
+}
+
+.viz-07-13 {
+    fill: none;
+    stroke: #575756;
+    stroke-width: 0.5;
+    stroke-miterlimit: 10;
+}
+
+.viz-07-14 {
+    fill: #1D1D1B;
+}
+
+.viz-07-15 {
+    fill: #A0B4D8;
+    fill-opacity: 0.5;
+    stroke: #A0B4D8;
+    stroke-width: 0.5;
+}
+
+.viz-07-16 {
+    fill: #97AF6E;
+    fill-opacity: 0.5;
+    stroke: #97AF6E;
+    stroke-width: 0.5;
+}
+
+.viz-07-17 {
+    fill: #CD5156;
+    fill-opacity: 0.5;
+    stroke: #CD5156;
+    stroke-width: 0.5;
+}
+
+.viz-07-18 {
+    fill: #FCC658;
+    fill-opacity: 0.5;
+    stroke: #FCC658;
+    stroke-width: 0.5;
+}
+
+.viz-07-19 {
+    font-family: 'HK Grotesk', sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.viz-07-20 {
+    font-size: 10px;
+}
+
+.viz-07-21 {
+    letter-spacing: 89;
+}

@@ -1,0 +1,124 @@
+svg {
+    cursor: default;
+}
+
+.didascalia {
+    transition-duration: 0.3s;
+    opacity: 0;
+    pointer-events: none;
+}
+
+.cerchio {
+    transition-duration: 0.3s;
+}
+
+.viz-09-0 {
+    fill: none;
+}
+
+.viz-09-1 {
+    fill: #3C3C3B;
+}
+
+.viz-09-2 {
+    font-family: 'HK Grotesk', sans-serif;
+    font-weight: 300;
+}
+
+.viz-09-3 {
+    font-size: 0.9em;
+}
+
+.viz-09-4 {
+    fill: #F08666;
+}
+
+.viz-09-5 {
+    fill: #4171A3;
+}
+
+.viz-09-6 {
+    fill: #FCC658;
+}
+
+.viz-09-7 {
+    fill: #97AF6E;
+}
+
+.viz-09-8 {
+    fill: #A0B4D8;
+}
+
+.viz-09-9 {
+    fill: #CD5156;
+}
+
+.viz-09-10 {
+    fill: #F8C8B8;
+}
+
+.viz-09-11 {
+    fill: #B1B1B1;
+}
+
+.viz-09-12 {
+    fill: none;
+    stroke: #9C9B9B;
+    stroke-width: 0.5;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+
+.viz-09-13 {
+    font-size: 12px;
+}
+
+.viz-09-14 {
+    opacity: 0.5;
+    fill: #F08666;
+}
+
+.viz-09-15 {
+    opacity: 0.5;
+    fill: #CD5156;
+}
+
+.viz-09-16 {
+    opacity: 0.5;
+    fill: #B1B1B1;
+}
+
+.viz-09-17 {
+    opacity: 0.5;
+    fill: #4171A3;
+}
+
+.viz-09-18 {
+    opacity: 0.5;
+    fill: #97AF6E;
+}
+
+.viz-09-19 {
+    opacity: 0.5;
+    fill: #F8C8B8;
+}
+
+.viz-09-20 {
+    opacity: 0.5;
+    fill: #A0B4D8;
+}
+
+.viz-09-21 {
+    opacity: 0.5;
+    fill: #FCC658;
+}
+
+.viz-09-22 {
+    font-family: 'HK Grotesk', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.viz-09-23 {
+    font-size: 10px;
+}

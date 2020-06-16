@@ -1,0 +1,441 @@
+/*FONTS*/
+
+.termina-white-big {
+    font-family: 'Termina', sans-serif;
+    font-size: 2.5em;
+    color: #F5F4F4;
+    line-height: normal;
+}
+
+.termina-white-medium {
+    font-family: 'Termina', sans-serif;
+    font-size: 1.7em;
+    color: #F5F4F4;
+    line-height: normal;
+}
+
+.termina-black-medium {
+    font-family: 'Termina', sans-serif;
+    font-size: 1.7em;
+    color: #3C3C3B;
+    line-height: normal;
+}
+
+.termina-black-small {
+    font-family: 'Termina', sans-serif;
+    font-size: 1.1em;
+    color: #3C3C3B;
+    line-height: normal;
+}
+
+.termina-gradiente-small {
+    font-family: 'Termina Demi', sans-serif;
+    font-size: 1.1em;
+    line-height: 1.3;
+    font-kerning: none;
+    color: transparent !important;
+    background: linear-gradient(to right, #4271A4, #F18867) !important;
+    -webkit-background-clip: text !important;
+    background-clip: text !important;
+}
+
+.hk-white-medium {
+    font-family: 'HK Grotesk', sans-serif;
+    font-size: 0.9em;
+    color: #F5F4F4;
+    line-height: normal;
+}
+
+.hk-black-medium {
+    font-family: 'HK Grotesk', sans-serif;
+    font-size: 0.9em;
+    color: #3C3C3B;
+    line-height: normal;
+    font-weight: 300;
+}
+
+.hk-white-small {
+    font-family: 'HK Grotesk', sans-serif;
+    font-size: 0.7em;
+    color: #F5F4F4;
+    line-height: normal;
+    font-weight: 600;
+    font-style: italic;
+    text-align: right;
+}
+
+.hk-black-small {
+    font-family: 'HK Grotesk', sans-serif;
+    font-size: 0.7em;
+    color: #3C3C3B;
+    font-weight: 600;
+    line-height: normal;
+    font-weight: small;
+}
+
+.link-white-small {
+    color: #F5F4F4;
+}
+
+.link-white-small:hover {
+    color: #F5F4F4;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.semibold {
+    font-weight: 600;
+}
+
+.giallo {
+    color: #FCC658;
+}
+
+.verde {
+    color: #97AF6E;
+}
+
+.lilla {
+    color: #A0B4D8;
+}
+
+.grigio {
+    color: #B1B1B1;
+}
+
+.rosa {
+    color: #F4A78F;
+}
+
+.blu {
+    color: #7596BB;
+}
+
+/*LAMBDA*/
+
+.lambda-white {
+    font-size: 65px;
+    font-family: "Times New Roman", Times, serif;
+    color: #F5F4F4;
+    line-height: 0.85;
+    cursor: default;
+}
+
+.lambda-gradiente {
+    font-size: 65px;
+    font-family: "Times New Roman", Times, serif;
+    color: transparent;
+    background: linear-gradient(to bottom, #4271A4, #F18867);
+    -webkit-background-clip: text;
+    background-clip: text;
+    line-height: 0.85;
+    cursor: default;
+}
+
+@keyframes loading {
+    0% {
+        max-height: 0;
+    }
+}
+
+
+/*LOADING*/
+
+#loading {
+    width: 100%;
+    height: 100vh;
+    opacity: 1;
+    background-color: #F5F4F4;
+    background-image: url("bg_white.png");
+    z-index: 10000;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.loading-lambda {
+    font-family: serif;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -70px;
+    margin-left: -18px;
+    color: transparent;
+    background: linear-gradient(to bottom, #4271A4, #F18867);
+    -webkit-background-clip: text;
+    background-clip: text;
+    font-size: 65px;
+    z-index: 10000;
+    cursor: default;
+    overflow: hidden;
+}
+
+.loading-lambda:before {
+    content: attr(data-text);
+    position: absolute;
+    overflow: hidden;
+    max-height: 80px;
+    -webkit-text-stroke: 1px #F5F4F4;
+    white-space: nowrap;
+    color: #F5F4F4;
+    -webkit-animation: loading 1s linear reverse infinite;
+    z-index: 10000;
+    cursor: default;
+    overflow: hidden;
+}
+
+/*IMPORT*/
+
+@import url(//db.onlinewebfonts.com/c/e9591193aa91ce28ad8c8f91c03f6c7b?family=TerminaW05-Bold);
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@100&display=swap');
+
+@font-face {
+    font-family: "TerminaW05-Bold";
+    src: url("//db.onlinewebfonts.com/t/e9591193aa91ce28ad8c8f91c03f6c7b.eot");
+    src: url("//db.onlinewebfonts.com/t/e9591193aa91ce28ad8c8f91c03f6c7b.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/e9591193aa91ce28ad8c8f91c03f6c7b.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/e9591193aa91ce28ad8c8f91c03f6c7b.woff") format("woff"), url("//db.onlinewebfonts.com/t/e9591193aa91ce28ad8c8f91c03f6c7b.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/e9591193aa91ce28ad8c8f91c03f6c7b.svg#TerminaW05-Bold") format("svg");
+}
+
+@font-face {
+    font-family: 'Termina';
+    src: url('./css/fontsTermina-Regular.eot');
+    src: url('Termina-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Termina-Regular.woff2') format('woff2'),
+        url('Termina-Regular.woff') format('woff'),
+        url('Termina-Regular.ttf') format('truetype'),
+        url('Termina-Regular.svg#Termina-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Termina Demi';
+    src: url('Termina-Demi.eot');
+    src: url('Termina-Demi.eot?#iefix') format('embedded-opentype'),
+        url('Termina-Demi.woff2') format('woff2'),
+        url('Termina-Demi.woff') format('woff'),
+        url('Termina-Demi.ttf') format('truetype'),
+        url('Termina-Demi.svg#Termina-Demi') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('HKGrotesk-SemiBoldItalic.eot');
+    src: url('HKGrotesk-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('HKGrotesk-SemiBoldItalic.woff2') format('woff2'),
+        url('HKGrotesk-SemiBoldItalic.woff') format('woff'),
+        url('HKGrotesk-SemiBoldItalic.ttf') format('truetype'),
+        url('HKGrotesk-SemiBoldItalic.svg#HKGrotesk-SemiBoldItalic') format('svg');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('HKGrotesk-LightItalic.eot');
+    src: url('HKGrotesk-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('HKGrotesk-LightItalic.woff2') format('woff2'),
+        url('HKGrotesk-LightItalic.woff') format('woff'),
+        url('HKGrotesk-LightItalic.ttf') format('truetype'),
+        url('HKGrotesk-LightItalic.svg#HKGrotesk-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('HKGrotesk-SemiBold.eot');
+    src: url('HKGrotesk-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('HKGrotesk-SemiBold.woff2') format('woff2'),
+        url('HKGrotesk-SemiBold.woff') format('woff'),
+        url('HKGrotesk-SemiBold.ttf') format('truetype'),
+        url('HKGrotesk-SemiBold.svg#HKGrotesk-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('HKGrotesk-Black.eot');
+    src: url('HKGrotesk-Black.eot?#iefix') format('embedded-opentype'),
+        url('HKGrotesk-Black.woff2') format('woff2'),
+        url('HKGrotesk-Black.woff') format('woff'),
+        url('HKGrotesk-Black.ttf') format('truetype'),
+        url('HKGrotesk-Black.svg#HKGrotesk-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('HKGrotesk-Bold.eot');
+    src: url('HKGrotesk-Bold.eot?#iefix') format('embedded-opentype'),
+        url('HKGrotesk-Bold.woff2') format('woff2'),
+        url('HKGrotesk-Bold.woff') format('woff'),
+        url('HKGrotesk-Bold.ttf') format('truetype'),
+        url('HKGrotesk-Bold.svg#HKGrotesk-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('HKGrotesk-Regular.eot');
+    src: url('HKGrotesk-Regular.eot?#iefix') format('embedded-opentype'),
+        url('HKGrotesk-Regular.woff2') format('woff2'),
+        url('HKGrotesk-Regular.woff') format('woff'),
+        url('HKGrotesk-Regular.ttf') format('truetype'),
+        url('HKGrotesk-Regular.svg#HKGrotesk-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('HKGrotesk-Light.eot');
+    src: url('HKGrotesk-Light.eot?#iefix') format('embedded-opentype'),
+        url('HKGrotesk-Light.woff2') format('woff2'),
+        url('HKGrotesk-Light.woff') format('woff'),
+        url('HKGrotesk-Light.ttf') format('truetype'),
+        url('HKGrotesk-Light.svg#HKGrotesk-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('HKGrotesk-MediumItalic.eot');
+    src: url('HKGrotesk-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('HKGrotesk-MediumItalic.woff2') format('woff2'),
+        url('HKGrotesk-MediumItalic.woff') format('woff'),
+        url('HKGrotesk-MediumItalic.ttf') format('truetype'),
+        url('HKGrotesk-MediumItalic.svg#HKGrotesk-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('HKGrotesk-BlackItalic.eot');
+    src: url('HKGrotesk-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('HKGrotesk-BlackItalic.woff2') format('woff2'),
+        url('HKGrotesk-BlackItalic.woff') format('woff'),
+        url('HKGrotesk-BlackItalic.ttf') format('truetype'),
+        url('HKGrotesk-BlackItalic.svg#HKGrotesk-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('HKGrotesk-ExtraBoldItalic.eot');
+    src: url('HKGrotesk-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('HKGrotesk-ExtraBoldItalic.woff2') format('woff2'),
+        url('HKGrotesk-ExtraBoldItalic.woff') format('woff'),
+        url('HKGrotesk-ExtraBoldItalic.ttf') format('truetype'),
+        url('HKGrotesk-ExtraBoldItalic.svg#HKGrotesk-ExtraBoldItalic') format('svg');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('HKGrotesk-Italic.eot');
+    src: url('HKGrotesk-Italic.eot?#iefix') format('embedded-opentype'),
+        url('HKGrotesk-Italic.woff2') format('woff2'),
+        url('HKGrotesk-Italic.woff') format('woff'),
+        url('HKGrotesk-Italic.ttf') format('truetype'),
+        url('HKGrotesk-Italic.svg#HKGrotesk-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('HKGrotesk-Medium.eot');
+    src: url('HKGrotesk-Medium.eot?#iefix') format('embedded-opentype'),
+        url('HKGrotesk-Medium.woff2') format('woff2'),
+        url('HKGrotesk-Medium.woff') format('woff'),
+        url('HKGrotesk-Medium.ttf') format('truetype'),
+        url('HKGrotesk-Medium.svg#HKGrotesk-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('HKGrotesk-ExtraBold.eot');
+    src: url('HKGrotesk-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('HKGrotesk-ExtraBold.woff2') format('woff2'),
+        url('HKGrotesk-ExtraBold.woff') format('woff'),
+        url('HKGrotesk-ExtraBold.ttf') format('truetype'),
+        url('HKGrotesk-ExtraBold.svg#HKGrotesk-ExtraBold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('HKGrotesk-BoldItalic.eot');
+    src: url('HKGrotesk-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('HKGrotesk-BoldItalic.woff2') format('woff2'),
+        url('HKGrotesk-BoldItalic.woff') format('woff'),
+        url('HKGrotesk-BoldItalic.ttf') format('truetype'),
+        url('HKGrotesk-BoldItalic.svg#HKGrotesk-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Termina';
+    src: url('Termina-Thin.eot');
+    src: url('Termina-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Termina-Thin.woff2') format('woff2'),
+        url('Termina-Thin.woff') format('woff'),
+        url('Termina-Thin.ttf') format('truetype'),
+        url('Termina-Thin.svg#Termina-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+
+/*MOBILE*/
+
+@media (max-width: 900px) {
+
+    .termina-black-medium {
+        font-size: 1.2em;
+    }
+
+    .termina-white-medium {
+        font-size: 1.2em;
+    }
+
+    .hk-black-medium {
+        font-size: 0.85em;
+        line-height: 1.2;
+    }
+
+    .hk-white-medium {
+        font-size: 0.85em;
+        line-height: 1.2;
+    }
+
+    .termina-white-big {
+        font-size: 1.2em;
+    }
+
+    .termina-gradiente-small {
+        font-size: 0.9em;
+    }
+
+    .hk-white-small {
+        font-size: 0.6em;
+    }
+
+    .lambda-white {
+        line-height: 0.7;
+    }

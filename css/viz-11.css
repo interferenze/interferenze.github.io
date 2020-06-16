@@ -1,0 +1,481 @@
+svg {
+    cursor: default;
+}
+
+.linea {
+    transition-duration: 0.5s;
+}
+
+.viz-11-0 {
+    fill: #A0B4D8;
+}
+
+.viz-11-1 {
+    fill: none;
+}
+
+.viz-11-2 {
+    fill: #3C3C3B;
+}
+
+.viz-11-3 {
+    font-family: 'HK Grotesk', sans-serif;
+    font-weight: 300;
+}
+
+.viz-11-4 {
+    font-size: 0.9em;
+}
+
+.viz-11-5 {
+    fill: #FCC658;
+}
+
+.viz-11-6 {
+    fill: #97AF6E;
+}
+
+.viz-11-7 {
+    font-size: 12px;
+}
+
+.viz-11-8 {
+    fill: none;
+    stroke: #9C9B9B;
+    stroke-width: 0.25;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+
+.viz-11-9 {
+    fill: none;
+    stroke: #9C9B9B;
+    stroke-width: 0.5;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+
+.viz-11-10 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+.viz-11-11 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.0528, 3.0528;
+}
+
+.viz-11-12 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.3693, 3.3693;
+}
+
+.viz-11-13 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 2.5487, 2.5487;
+}
+
+.viz-11-14 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.156, 3.156;
+}
+
+.viz-11-15 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 2.0083, 2.0083;
+}
+
+.viz-11-16 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.4682, 3.4682;
+}
+
+.viz-11-17 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.0505, 3.0505;
+}
+
+.viz-11-18 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 2.7985, 2.7985;
+}
+
+.viz-11-19 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 2.8758, 2.8758;
+}
+
+.viz-11-20 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 2.8579, 2.8579;
+}
+
+.viz-11-21 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.06, 3.06;
+}
+
+.viz-11-22 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.595, 3.595;
+}
+
+.viz-11-23 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.0341, 3.0341;
+}
+
+.viz-11-24 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.5435, 3.5435;
+}
+
+.viz-11-25 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 2.7134, 2.7134;
+}
+
+.viz-11-26 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.226, 3.226;
+}
+
+.viz-11-27 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.3501, 3.3501;
+}
+
+.viz-11-28 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 1.8362, 1.8362;
+}
+
+.viz-11-29 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 2.7893, 2.7893;
+}
+
+.viz-11-30 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 2.8571, 2.8571;
+}
+
+.viz-11-31 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.0056, 3.0056;
+}
+
+.viz-11-32 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 2.8086, 2.8086;
+}
+
+.viz-11-33 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 2.6574, 2.6574;
+}
+
+.viz-11-34 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 2.9385, 2.9385;
+}
+
+.viz-11-35 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.0149, 3.0149;
+}
+
+.viz-11-36 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 2.9447, 2.9447;
+}
+
+.viz-11-37 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.0463, 3.0463;
+}
+
+.viz-11-38 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 2.8865, 2.8865;
+}
+
+.viz-11-39 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 2.6189, 2.6189;
+}
+
+.viz-11-40 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.1463, 3.1463;
+}
+
+.viz-11-41 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 2.8976, 2.8976;
+}
+
+.viz-11-42 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.2122, 3.2122;
+}
+
+.viz-11-43 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 2.8026, 2.8026;
+}
+
+.viz-11-44 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.1794, 3.1794;
+}
+
+.viz-11-45 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 2.9248, 2.9248;
+}
+
+.viz-11-46 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.7147, 3.7147;
+}
+
+.viz-11-47 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.0264, 3.0264;
+}
+
+.viz-11-48 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 2.9782, 2.9782;
+}
+
+.viz-11-49 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.3083, 3.3083;
+}
+
+.viz-11-50 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.0433, 3.0433;
+}
+
+.viz-11-51 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.182, 3.182;
+}
+
+.viz-11-52 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.2624, 3.2624;
+}
+
+.viz-11-53 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.0787, 3.0787;
+}
+
+.viz-11-54 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 2.9932, 2.9932;
+}
+
+.viz-11-55 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.014, 3.014;
+}
+
+.viz-11-56 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 2.9815, 2.9815;
+}
+
+.viz-11-57 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3.0248, 3.0248;
+}
+
+.viz-11-58 {
+    fill: none;
+    stroke: #A8BED5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 2.8014, 2.8014;
+}
+
+.viz-11-59 {
+    fill: none;
+    stroke: #FCC658;
+    stroke-width: 2;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+
+.viz-11-60 {
+    fill: none;
+    stroke: #97AF6E;
+    stroke-width: 2;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+
+.viz-11-61 {
+    font-size: 14px;
+}
+
+.viz-11-62 {
+    font-family: 'HK Grotesk', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.viz-11-63 {
+    fill: none;
+    stroke: #3C3C3B;
+    stroke-width: 0.5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}

@@ -1,0 +1,1894 @@
+svg {
+    cursor: default;
+}
+
+#africa {
+    transition-duration: 0.5s;
+}
+
+#asia {
+    transition-duration: 0.5s;
+}
+
+#america {
+    transition-duration: 0.5s;
+}
+
+#europa {
+    transition-duration: 0.5s;
+}
+
+#oceania {
+    transition-duration: 0.5s;
+}
+
+.viz-03-0 {
+    fill: none;
+}
+
+.viz-03-1 {
+    fill: #3C3C3B;
+}
+
+.viz-03-2 {
+    font-family: 'HK Grotesk', sans-serif;
+    font-weight: 300;
+}
+
+.viz-03-3 {
+    font-size: 0.9em;
+}
+
+.viz-03-4 {
+    fill: #F08666;
+}
+
+.viz-03-5 {
+    fill: #D9D9D9;
+}
+
+.viz-03-6 {
+    fill: #4171A3;
+}
+
+.viz-03-7 {
+    fill: #F4A78F;
+}
+
+.viz-03-8 {
+    fill: #7596BB;
+}
+
+.viz-03-9 {
+    clip-path: url(#SVGID03_2_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-width: 1.5;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-10 {
+    clip-path: url(#SVGID03_4_);
+    fill: none;
+    stroke: #F8C8B8;
+    stroke-width: 1.5;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-11 {
+    clip-path: url(#SVGID03_6_);
+    fill: none;
+    stroke: #F08666;
+    stroke-width: 1.5;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-12 {
+    clip-path: url(#SVGID03_6_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-width: 1.5;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-13 {
+    clip-path: url(#SVGID03_8_);
+    fill: none;
+    stroke: #F08666;
+    stroke-width: 1.5;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-14 {
+    clip-path: url(#SVGID03_8_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-width: 1.5;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-15 {
+    clip-path: url(#SVGID03_10_);
+    fill: none;
+    stroke: #A8BED5;
+    stroke-width: 1.5;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-16 {
+    clip-path: url(#SVGID03_12_);
+    fill: none;
+    stroke: #7596BB;
+    stroke-width: 1.5;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-17 {
+    clip-path: url(#SVGID03_14_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-width: 1.5;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-18 {
+    clip-path: url(#SVGID03_16_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-width: 1.5;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-19 {
+    clip-path: url(#SVGID03_18_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-20 {
+    clip-path: url(#SVGID03_18_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-21 {
+    clip-path: url(#SVGID03_20_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-22 {
+    clip-path: url(#SVGID03_20_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-23 {
+    clip-path: url(#SVGID03_22_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-24 {
+    clip-path: url(#SVGID03_24_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-25 {
+    clip-path: url(#SVGID03_24_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-26 {
+    clip-path: url(#SVGID03_26_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-27 {
+    clip-path: url(#SVGID03_26_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-28 {
+    clip-path: url(#SVGID03_28_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-29 {
+    clip-path: url(#SVGID03_30_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-30 {
+    clip-path: url(#SVGID03_32_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-31 {
+    clip-path: url(#SVGID03_34_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-32 {
+    clip-path: url(#SVGID03_36_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-33 {
+    clip-path: url(#SVGID03_38_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-34 {
+    clip-path: url(#SVGID03_40_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-35 {
+    clip-path: url(#SVGID03_42_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-36 {
+    clip-path: url(#SVGID03_44_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-37 {
+    clip-path: url(#SVGID03_46_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-38 {
+    clip-path: url(#SVGID03_48_);
+    fill: none;
+    stroke: #F8C8B8;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-39 {
+    clip-path: url(#SVGID03_50_);
+    fill: none;
+    stroke: #7596BB;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-40 {
+    clip-path: url(#SVGID03_52_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-41 {
+    clip-path: url(#SVGID03_54_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-42 {
+    clip-path: url(#SVGID03_56_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-43 {
+    clip-path: url(#SVGID03_56_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-44 {
+    clip-path: url(#SVGID03_58_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-45 {
+    clip-path: url(#SVGID03_58_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-46 {
+    clip-path: url(#SVGID03_60_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-47 {
+    clip-path: url(#SVGID03_62_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-48 {
+    clip-path: url(#SVGID03_64_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-49 {
+    clip-path: url(#SVGID03_66_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-50 {
+    clip-path: url(#SVGID03_68_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-51 {
+    clip-path: url(#SVGID03_70_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-52 {
+    clip-path: url(#SVGID03_72_);
+    fill: none;
+    stroke: #7596BB;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-53 {
+    clip-path: url(#SVGID03_74_);
+    fill: none;
+    stroke: #7596BB;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-54 {
+    fill: #D9C4C0;
+}
+
+.viz-03-55 {
+    clip-path: url(#SVGID03_76_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-56 {
+    clip-path: url(#SVGID03_76_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-57 {
+    clip-path: url(#SVGID03_78_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-58 {
+    clip-path: url(#SVGID03_78_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-59 {
+    clip-path: url(#SVGID03_80_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-60 {
+    clip-path: url(#SVGID03_80_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-61 {
+    clip-path: url(#SVGID03_82_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-62 {
+    clip-path: url(#SVGID03_82_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-63 {
+    clip-path: url(#SVGID03_84_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-64 {
+    clip-path: url(#SVGID03_84_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-65 {
+    clip-path: url(#SVGID03_86_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-66 {
+    clip-path: url(#SVGID03_86_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-67 {
+    clip-path: url(#SVGID03_88_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-68 {
+    clip-path: url(#SVGID03_88_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-69 {
+    clip-path: url(#SVGID03_90_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-70 {
+    clip-path: url(#SVGID03_90_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-71 {
+    clip-path: url(#SVGID03_92_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-72 {
+    clip-path: url(#SVGID03_92_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-73 {
+    clip-path: url(#SVGID03_94_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-74 {
+    clip-path: url(#SVGID03_94_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-75 {
+    clip-path: url(#SVGID03_96_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-76 {
+    clip-path: url(#SVGID03_98_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-77 {
+    clip-path: url(#SVGID03_100_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-78 {
+    clip-path: url(#SVGID03_102_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-79 {
+    clip-path: url(#SVGID03_104_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-80 {
+    clip-path: url(#SVGID03_106_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-81 {
+    clip-path: url(#SVGID03_108_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-82 {
+    clip-path: url(#SVGID03_110_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-83 {
+    clip-path: url(#SVGID03_112_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-84 {
+    clip-path: url(#SVGID03_114_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-85 {
+    clip-path: url(#SVGID03_116_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-86 {
+    clip-path: url(#SVGID03_118_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-87 {
+    clip-path: url(#SVGID03_120_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-88 {
+    clip-path: url(#SVGID03_122_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-89 {
+    clip-path: url(#SVGID03_124_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-90 {
+    clip-path: url(#SVGID03_126_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-91 {
+    clip-path: url(#SVGID03_128_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-92 {
+    clip-path: url(#SVGID03_130_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-93 {
+    clip-path: url(#SVGID03_132_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-94 {
+    clip-path: url(#SVGID03_134_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-95 {
+    clip-path: url(#SVGID03_136_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-96 {
+    clip-path: url(#SVGID03_138_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-97 {
+    clip-path: url(#SVGID03_140_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-98 {
+    clip-path: url(#SVGID03_142_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-99 {
+    clip-path: url(#SVGID03_144_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-100 {
+    clip-path: url(#SVGID03_146_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-101 {
+    clip-path: url(#SVGID03_148_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-102 {
+    clip-path: url(#SVGID03_150_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-103 {
+    clip-path: url(#SVGID03_152_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-104 {
+    clip-path: url(#SVGID03_154_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-105 {
+    clip-path: url(#SVGID03_156_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-106 {
+    clip-path: url(#SVGID03_158_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-107 {
+    clip-path: url(#SVGID03_160_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-108 {
+    clip-path: url(#SVGID03_162_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-109 {
+    clip-path: url(#SVGID03_164_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-110 {
+    clip-path: url(#SVGID03_166_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-111 {
+    clip-path: url(#SVGID03_168_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-112 {
+    clip-path: url(#SVGID03_170_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-113 {
+    clip-path: url(#SVGID03_172_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-114 {
+    clip-path: url(#SVGID03_174_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-115 {
+    clip-path: url(#SVGID03_176_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-116 {
+    clip-path: url(#SVGID03_178_);
+    fill: none;
+    stroke: #7596BB;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-117 {
+    clip-path: url(#SVGID03_180_);
+    fill: none;
+    stroke: #7596BB;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-118 {
+    clip-path: url(#SVGID03_182_);
+    fill: none;
+    stroke: #7596BB;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-119 {
+    clip-path: url(#SVGID03_184_);
+    fill: none;
+    stroke: #7596BB;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-120 {
+    clip-path: url(#SVGID03_186_);
+    fill: none;
+    stroke: #7596BB;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-121 {
+    clip-path: url(#SVGID03_188_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-122 {
+    clip-path: url(#SVGID03_190_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-123 {
+    clip-path: url(#SVGID03_192_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-124 {
+    clip-path: url(#SVGID03_194_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-125 {
+    clip-path: url(#SVGID03_196_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-126 {
+    clip-path: url(#SVGID03_198_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-127 {
+    clip-path: url(#SVGID03_200_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-128 {
+    clip-path: url(#SVGID03_202_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-129 {
+    clip-path: url(#SVGID03_204_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-130 {
+    clip-path: url(#SVGID03_206_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-131 {
+    clip-path: url(#SVGID03_208_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-132 {
+    clip-path: url(#SVGID03_210_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-133 {
+    clip-path: url(#SVGID03_212_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-134 {
+    clip-path: url(#SVGID03_214_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-135 {
+    clip-path: url(#SVGID03_216_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-136 {
+    clip-path: url(#SVGID03_218_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-137 {
+    clip-path: url(#SVGID03_220_);
+    fill: none;
+    stroke: #7596BB;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-138 {
+    clip-path: url(#SVGID03_222_);
+    fill: none;
+    stroke: #7596BB;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-139 {
+    clip-path: url(#SVGID03_224_);
+    fill: none;
+    stroke: #7596BB;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-140 {
+    clip-path: url(#SVGID03_226_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-141 {
+    clip-path: url(#SVGID03_228_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-142 {
+    clip-path: url(#SVGID03_230_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-143 {
+    clip-path: url(#SVGID03_232_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-144 {
+    clip-path: url(#SVGID03_234_);
+    fill: none;
+    stroke: #7596BB;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-145 {
+    clip-path: url(#SVGID03_236_);
+    fill: none;
+    stroke: #7596BB;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-146 {
+    clip-path: url(#SVGID03_238_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-147 {
+    clip-path: url(#SVGID03_238_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-148 {
+    clip-path: url(#SVGID03_240_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-149 {
+    clip-path: url(#SVGID03_240_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-150 {
+    clip-path: url(#SVGID03_242_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-151 {
+    clip-path: url(#SVGID03_242_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-152 {
+    clip-path: url(#SVGID03_244_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-153 {
+    clip-path: url(#SVGID03_244_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-154 {
+    clip-path: url(#SVGID03_246_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-155 {
+    clip-path: url(#SVGID03_246_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-156 {
+    clip-path: url(#SVGID03_248_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-157 {
+    clip-path: url(#SVGID03_248_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-158 {
+    clip-path: url(#SVGID03_250_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-159 {
+    clip-path: url(#SVGID03_250_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-160 {
+    clip-path: url(#SVGID03_252_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-161 {
+    clip-path: url(#SVGID03_252_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-162 {
+    clip-path: url(#SVGID03_254_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-163 {
+    clip-path: url(#SVGID03_254_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-164 {
+    clip-path: url(#SVGID03_256_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-165 {
+    clip-path: url(#SVGID03_256_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-166 {
+    clip-path: url(#SVGID03_258_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-167 {
+    clip-path: url(#SVGID03_258_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-168 {
+    clip-path: url(#SVGID03_260_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-169 {
+    clip-path: url(#SVGID03_260_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-170 {
+    clip-path: url(#SVGID03_262_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-171 {
+    clip-path: url(#SVGID03_264_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-172 {
+    clip-path: url(#SVGID03_266_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-173 {
+    clip-path: url(#SVGID03_268_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-174 {
+    clip-path: url(#SVGID03_270_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-175 {
+    clip-path: url(#SVGID03_272_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-176 {
+    clip-path: url(#SVGID03_274_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-177 {
+    clip-path: url(#SVGID03_276_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-178 {
+    clip-path: url(#SVGID03_278_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-179 {
+    clip-path: url(#SVGID03_280_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-180 {
+    clip-path: url(#SVGID03_282_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-181 {
+    clip-path: url(#SVGID03_284_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-182 {
+    clip-path: url(#SVGID03_286_);
+    fill: none;
+    stroke: #7596BB;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-183 {
+    clip-path: url(#SVGID03_288_);
+    fill: none;
+    stroke: #7596BB;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-184 {
+    clip-path: url(#SVGID03_290_);
+    fill: none;
+    stroke: #A8BED5;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-185 {
+    clip-path: url(#SVGID03_292_);
+    fill: none;
+    stroke: #A8BED5;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-186 {
+    clip-path: url(#SVGID03_294_);
+    fill: none;
+    stroke: #A8BED5;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-187 {
+    clip-path: url(#SVGID03_296_);
+    fill: none;
+    stroke: #A8BED5;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-188 {
+    clip-path: url(#SVGID03_298_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-189 {
+    clip-path: url(#SVGID03_298_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-190 {
+    clip-path: url(#SVGID03_300_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-191 {
+    clip-path: url(#SVGID03_300_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-192 {
+    clip-path: url(#SVGID03_302_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-193 {
+    clip-path: url(#SVGID03_302_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-194 {
+    clip-path: url(#SVGID03_304_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-195 {
+    clip-path: url(#SVGID03_304_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-196 {
+    clip-path: url(#SVGID03_306_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-197 {
+    clip-path: url(#SVGID03_306_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-198 {
+    clip-path: url(#SVGID03_308_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-199 {
+    clip-path: url(#SVGID03_308_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-200 {
+    clip-path: url(#SVGID03_310_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-201 {
+    clip-path: url(#SVGID03_312_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-202 {
+    clip-path: url(#SVGID03_314_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-203 {
+    clip-path: url(#SVGID03_316_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-204 {
+    clip-path: url(#SVGID03_318_);
+    fill: none;
+    stroke: #7596BB;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-205 {
+    clip-path: url(#SVGID03_320_);
+    fill: none;
+    stroke: #A8BED5;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-206 {
+    clip-path: url(#SVGID03_322_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-207 {
+    clip-path: url(#SVGID03_322_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-208 {
+    clip-path: url(#SVGID03_324_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-209 {
+    clip-path: url(#SVGID03_324_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-210 {
+    clip-path: url(#SVGID03_326_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-211 {
+    clip-path: url(#SVGID03_326_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-212 {
+    clip-path: url(#SVGID03_328_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-213 {
+    clip-path: url(#SVGID03_328_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-214 {
+    clip-path: url(#SVGID03_330_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-215 {
+    clip-path: url(#SVGID03_330_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-216 {
+    clip-path: url(#SVGID03_332_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-217 {
+    clip-path: url(#SVGID03_332_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-218 {
+    clip-path: url(#SVGID03_334_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-219 {
+    clip-path: url(#SVGID03_334_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-220 {
+    clip-path: url(#SVGID03_336_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-221 {
+    clip-path: url(#SVGID03_336_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-222 {
+    clip-path: url(#SVGID03_338_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-223 {
+    clip-path: url(#SVGID03_340_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-224 {
+    clip-path: url(#SVGID03_342_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-225 {
+    clip-path: url(#SVGID03_344_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-226 {
+    clip-path: url(#SVGID03_346_);
+    fill: none;
+    stroke: #F8C8B8;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-227 {
+    clip-path: url(#SVGID03_348_);
+    fill: none;
+    stroke: #A8BED5;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-228 {
+    clip-path: url(#SVGID03_350_);
+    fill: none;
+    stroke: #7596BB;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-229 {
+    clip-path: url(#SVGID03_352_);
+    fill: none;
+    stroke: #7596BB;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-230 {
+    clip-path: url(#SVGID03_354_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-231 {
+    clip-path: url(#SVGID03_356_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-232 {
+    clip-path: url(#SVGID03_358_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-233 {
+    clip-path: url(#SVGID03_358_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-234 {
+    clip-path: url(#SVGID03_360_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-235 {
+    clip-path: url(#SVGID03_360_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-236 {
+    clip-path: url(#SVGID03_362_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-237 {
+    clip-path: url(#SVGID03_364_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-238 {
+    clip-path: url(#SVGID03_366_);
+    fill: none;
+    stroke: #7596BB;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-239 {
+    clip-path: url(#SVGID03_368_);
+    fill: none;
+    stroke: #7596BB;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-240 {
+    clip-path: url(#SVGID03_370_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-241 {
+    clip-path: url(#SVGID03_372_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-242 {
+    clip-path: url(#SVGID03_374_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-243 {
+    clip-path: url(#SVGID03_376_);
+    fill: none;
+    stroke: #A8BED5;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-244 {
+    clip-path: url(#SVGID03_378_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-245 {
+    clip-path: url(#SVGID03_380_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-246 {
+    clip-path: url(#SVGID03_382_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-247 {
+    clip-path: url(#SVGID03_382_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-248 {
+    clip-path: url(#SVGID03_384_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-249 {
+    clip-path: url(#SVGID03_384_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-250 {
+    clip-path: url(#SVGID03_386_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-251 {
+    clip-path: url(#SVGID03_386_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-252 {
+    clip-path: url(#SVGID03_388_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-253 {
+    clip-path: url(#SVGID03_388_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-254 {
+    clip-path: url(#SVGID03_390_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-255 {
+    clip-path: url(#SVGID03_390_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-256 {
+    clip-path: url(#SVGID03_392_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-257 {
+    clip-path: url(#SVGID03_392_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-258 {
+    clip-path: url(#SVGID03_394_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-259 {
+    clip-path: url(#SVGID03_394_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-260 {
+    clip-path: url(#SVGID03_396_);
+    fill: none;
+    stroke: #F08666;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-261 {
+    clip-path: url(#SVGID03_396_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-262 {
+    clip-path: url(#SVGID03_398_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-263 {
+    clip-path: url(#SVGID03_400_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-264 {
+    clip-path: url(#SVGID03_402_);
+    fill: none;
+    stroke: #F4A78F;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-265 {
+    clip-path: url(#SVGID03_404_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-266 {
+    clip-path: url(#SVGID03_406_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-267 {
+    clip-path: url(#SVGID03_408_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-268 {
+    clip-path: url(#SVGID03_410_);
+    fill: none;
+    stroke: #4171A3;
+    stroke-miterlimit: 10;
+}
+
+.viz-03-269 {
+    clip-path: url(#SVGID03_412_);
+    fill: none;
+    stroke: #A8BED5;
+    stroke-miterlimit: 10;
+}

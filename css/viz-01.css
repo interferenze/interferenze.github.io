@@ -1,0 +1,425 @@
+svg {
+    cursor: default;
+}
+
+.stato-01 {
+    transition-duration: 0.5s;
+}
+
+.viz01-0 {
+    fill: none;
+    stroke: #9C9B9B;
+    stroke-width: 0.5;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+
+.viz01-1 {
+    fill: #3C3C3B;
+}
+
+.viz01-2 {
+    font-family: 'HK Grotesk', sans-serif;
+    font-weight: 300;
+}
+
+.viz01-3 {
+    font-size: 0.9em;
+}
+
+.viz01-4 {
+    fill: #F5F5F5;
+}
+
+.viz01-5 {
+    fill: url(#SVGID_1_);
+    fill-opacity: 0.7;
+    stroke: url(#SVGID_2_);
+    stroke-width: 0.5;
+    stroke-miterlimit: 10;
+}
+
+.viz01-6 {
+    fill: none;
+    stroke: #3C3C3B;
+    stroke-width: 0.25;
+    stroke-miterlimit: 10;
+}
+
+.viz01-7 {
+    fill: none;
+    stroke: #B1B1B1;
+    stroke-width: 0.5;
+    stroke-miterlimit: 10;
+}
+
+.viz01-8 {
+    font-size: 12px;
+}
+
+.viz01-9 {
+    opacity: 0.7;
+    fill: #4471A2;
+}
+
+.viz01-10 {
+    fill: none;
+    stroke: #4471A2;
+    stroke-width: 0.5;
+    stroke-miterlimit: 10;
+}
+
+.viz01-11 {
+    fill: #4471A2;
+}
+
+.viz01-12 {
+    font-family: 'HK Grotesk', sans-serif;
+    font-weight: 600;
+}
+
+.viz01-13 {
+    opacity: 0.7;
+    fill: #957D90;
+}
+
+.viz01-14 {
+    fill: none;
+    stroke: #957D90;
+    stroke-width: 0.5;
+    stroke-miterlimit: 10;
+}
+
+.viz01-15 {
+    fill: #957D90;
+}
+
+.viz01-16 {
+    opacity: 0.7;
+    fill: #867A94;
+}
+
+.viz01-17 {
+    fill: none;
+    stroke: #867A94;
+    stroke-width: 0.5;
+    stroke-miterlimit: 10;
+}
+
+.viz01-18 {
+    fill: #867A94;
+}
+
+.viz01-19 {
+    opacity: 0.7;
+    fill: #5172A0;
+}
+
+.viz01-20 {
+    fill: none;
+    stroke: #5172A0;
+    stroke-width: 0.5;
+    stroke-miterlimit: 10;
+}
+
+.viz01-21 {
+    fill: #5172A0;
+}
+
+.viz01-22 {
+    opacity: 0.7;
+    fill: #9C7D8D;
+}
+
+.viz01-23 {
+    fill: none;
+    stroke: #9C7D8D;
+    stroke-width: 0.5;
+    stroke-miterlimit: 10;
+}
+
+.viz01-24 {
+    fill: #9C7D8D;
+}
+
+.viz01-25 {
+    opacity: 0.7;
+    fill: #777898;
+}
+
+.viz01-26 {
+    fill: none;
+    stroke: #777898;
+    stroke-width: 0.5;
+    stroke-miterlimit: 10;
+}
+
+.viz01-27 {
+    fill: #777898;
+}
+
+.viz01-28 {
+    opacity: 0.7;
+    fill: #8E7C92;
+}
+
+.viz01-29 {
+    fill: none;
+    stroke: #8E7C92;
+    stroke-width: 0.5;
+    stroke-miterlimit: 10;
+}
+
+.viz01-30 {
+    fill: #8E7C92;
+}
+
+.viz01-31 {
+    opacity: 0.7;
+    fill: #6F779A;
+}
+
+.viz01-32 {
+    fill: none;
+    stroke: #6F779A;
+    stroke-width: 0.5;
+    stroke-miterlimit: 10;
+}
+
+.viz01-33 {
+    fill: #6F779A;
+}
+
+.viz01-34 {
+    opacity: 0.7;
+    fill: #66769D;
+}
+
+.viz01-35 {
+    fill: none;
+    stroke: #66769D;
+    stroke-width: 0.5;
+    stroke-miterlimit: 10;
+}
+
+.viz01-36 {
+    fill: #66769D;
+}
+
+.viz01-37 {
+    opacity: 0.7;
+    fill: #5C749E;
+}
+
+.viz01-38 {
+    fill: none;
+    stroke: #5C749E;
+    stroke-width: 0.5;
+    stroke-miterlimit: 10;
+}
+
+.viz01-39 {
+    fill: #5C749E;
+}
+
+.viz01-40 {
+    opacity: 0.7;
+    fill: #A27F8B;
+}
+
+.viz01-41 {
+    fill: none;
+    stroke: #A27F8B;
+    stroke-width: 0.5;
+    stroke-miterlimit: 10;
+}
+
+.viz01-42 {
+    fill: #A27F8B;
+}
+
+.viz01-43 {
+    opacity: 0.7;
+    fill: #AF8086;
+}
+
+.viz01-44 {
+    fill: none;
+    stroke: #AF8086;
+    stroke-width: 0.5;
+    stroke-miterlimit: 10;
+}
+
+.viz01-45 {
+    fill: #AF8086;
+}
+
+.viz01-46 {
+    opacity: 0.7;
+    fill: #A87F88;
+}
+
+.viz01-47 {
+    fill: none;
+    stroke: #A87F88;
+    stroke-width: 0.5;
+    stroke-miterlimit: 10;
+}
+
+.viz01-48 {
+    fill: #A87F88;
+}
+
+.viz01-49 {
+    opacity: 0.7;
+    fill: #7F7996;
+}
+
+.viz01-50 {
+    fill: none;
+    stroke: #7F7996;
+    stroke-width: 0.5;
+    stroke-miterlimit: 10;
+}
+
+.viz01-51 {
+    fill: #7F7996;
+}
+
+.viz01-52 {
+    opacity: 0.7;
+    fill: #BC8181;
+}
+
+.viz01-53 {
+    fill: none;
+    stroke: #BC8181;
+    stroke-width: 0.5;
+    stroke-miterlimit: 10;
+}
+
+.viz01-54 {
+    fill: #BC8181;
+}
+
+.viz01-55 {
+    opacity: 0.7;
+    fill: #B58084;
+}
+
+.viz01-56 {
+    fill: none;
+    stroke: #B58084;
+    stroke-width: 0.5;
+    stroke-miterlimit: 10;
+}
+
+.viz01-57 {
+    fill: #B58084;
+}
+
+.viz01-58 {
+    opacity: 0.7;
+    fill: #D38377;
+}
+
+.viz01-59 {
+    fill: none;
+    stroke: #D38377;
+    stroke-width: 0.5;
+    stroke-miterlimit: 10;
+}
+
+.viz01-60 {
+    fill: #D38377;
+}
+
+.viz01-61 {
+    opacity: 0.7;
+    fill: #D88575;
+}
+
+.viz01-62 {
+    fill: none;
+    stroke: #D88575;
+    stroke-width: 0.5;
+    stroke-miterlimit: 10;
+}
+
+.viz01-63 {
+    font-family: 'HK Grotesk', sans-serif;
+    font-weight: bold;
+}
+
+.viz01-64 {
+    fill: #D88575;
+}
+
+.viz01-65 {
+    font-family: 'HK Grotesk', sans-serif;
+    font-weight: 900;
+}
+
+.viz01-66 {
+    opacity: 0.7;
+    fill: #C7827D;
+}
+
+.viz01-67 {
+    fill: none;
+    stroke: #C7827D;
+    stroke-width: 0.5;
+    stroke-miterlimit: 10;
+}
+
+.viz01-68 {
+    fill: #C7827D;
+}
+
+.viz01-69 {
+    opacity: 0.7;
+    fill: #EF8767;
+}
+
+.viz01-70 {
+    fill: none;
+    stroke: #EF8767;
+    stroke-width: 0.5;
+    stroke-miterlimit: 10;
+}
+
+.viz01-71 {
+    fill: #EF8767;
+}
+
+.viz01-72 {
+    fill: #E3856E;
+}
+
+.viz01-73 {
+    opacity: 0.7;
+    fill: #E3856E;
+}
+
+.viz01-74 {
+    fill: none;
+    stroke: #E3856E;
+    stroke-width: 0.5;
+    stroke-miterlimit: 10;
+}
+
+.viz01-75 {
+    fill: #E8866C;
+}
+
+.viz01-76 {
+    fill: #DD8571;
+}
+
+.viz01-77 {
+    fill: #C1817F;
+}
+
+.viz01-78 {
+    fill: #CD837A;
+}

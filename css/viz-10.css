@@ -1,0 +1,70 @@
+svg {
+    cursor: default;
+}
+
+.quadrati {
+    transition-duration: 0.5s;
+}
+
+.viz-10-0 {
+    fill: #A0B4D8;
+}
+
+.viz-10-1 {
+    fill: none;
+}
+
+.viz-10-2 {
+    fill: #3C3C3B;
+}
+
+.viz-10-3 {
+    font-family: 'HK Grotesk', sans-serif;
+    font-weight: 300;
+}
+
+.viz-10-4 {
+    font-size: 0.9em;
+}
+
+.viz-10-5 {
+    fill: #FCC658;
+}
+
+.viz-10-6 {
+    fill: #97AF6E;
+}
+
+.viz-10-7 {
+    font-family: 'HK Grotesk', sans-serif;
+    font-weight: 600;
+    font-style: italic;
+
+}
+
+.viz-10-8 {
+    font-family: 'HK Grotesk', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.viz-10-9 {
+    fill: #A0B4D8;
+    fill-opacity: 0.5;
+    stroke: #A0B4D8;
+    stroke-width: 0.5;
+}
+
+.viz-10-10 {
+    fill: #97AF6E;
+    fill-opacity: 0.5;
+    stroke: #97AF6E;
+    stroke-width: 0.5;
+}
+
+.viz-10-11 {
+    fill: #FCC658;
+    fill-opacity: 0.5;
+    stroke: #FCC658;
+    stroke-width: 0.5;
+}

@@ -1,0 +1,303 @@
+html {
+    overflow-x: hidden;
+}
+
+body {
+    font-family: "Times New Roman", Times, serif;
+}
+
+iframe:focus {
+    outline: none;
+}
+
+iframe[seamless] {
+    display: block;
+}
+
+.footer {
+    pointer-events: none;
+}
+
+.embed-responsive {
+    width: 84%;
+}
+
+.home {
+    margin: 15% 15% 5% 15%;
+}
+
+.about {
+    margin: 15% 20% 10% 17%;
+}
+
+.menu {
+    margin: 15% 0% 10% 0%;
+}
+
+.white {
+    color: #F5F4F4;
+}
+
+.white:hover {
+    color: #F5F4F4 !important;
+}
+
+a {
+    text-decoration: none;
+    color: transparent;
+}
+
+a:hover {
+    text-decoration: none;
+    color: transparent;
+}
+
+.riga {
+    border-top: 1px solid #F5F4F4;
+}
+
+.riga-about {
+    margin: 3em 0;
+}
+
+
+/*VIDEO BG*/
+
+.video_bg {
+    position: fixed;
+    display: inline-flex;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: auto;
+    z-index: -1;
+}
+
+.video01 {
+    height: 100vh;
+    width: auto;
+    z-index: -1;
+}
+
+.video02 {
+    height: 100vh;
+    width: auto;
+    z-index: -1;
+    transform: scaleY(-1);
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    -ms-filter: fliph;
+    filter: fliph;
+}
+
+
+/*BOTTONE*/
+
+.bottone {
+    text-align: center;
+    display: inline-block;
+    color: #F5F4F4;
+    border-radius: 30px;
+    padding: 1px 25px 2px 25px;
+    border: 1px solid #F5F4F4;
+    cursor: pointer;
+    transition-duration: 0.5s;
+    font-family: 'Termina', sans-serif;
+    font-size: 1.1em;
+}
+
+.bottone:hover {
+    color: #b3a1ab;
+    background-color: #F5F4F4;
+    transition-duration: 0.5s;
+    text-decoration: none;
+}
+
+.bottone-margine {
+    margin-right: 70px;
+    margin-top: 7px;
+}
+
+.bottone-container {
+    display: inline-flex;
+}
+
+.bottone-container-viz {
+    align-content: space-between;
+}
+
+.bottone-subcontainer {
+    display: inline-block;
+}
+
+
+/*NAV*/
+
+.nav {
+    padding: 16px;
+}
+
+.nav-right {
+    display: inline-flex;
+}
+
+.nav-link {
+    font-family: 'Termina Demi', sans-serif;
+    font-size: 1.1rem;
+    transition: text-decoration 0.5s;
+    text-decoration: line-through transparent;
+}
+
+.nav-link:hover {
+    text-decoration: line-through;
+}
+
+.active {
+    text-decoration: line-through;
+}
+
+
+/*HOME*/
+
+.asterisco {
+    font-family: 'Termina', sans-serif;
+    font-size: 1.1rem;
+    color: #F5F4F4;
+    padding: 8px 16px;
+    display: inline-flex;
+}
+
+.lambda {
+    padding: 8px 16px;
+}
+
+
+/*MENU*/
+
+.menu-hover {
+    cursor: pointer;
+    margin: 5% 20% 5% 17%;
+    transition-duration: 0.5s;
+    -webkit-transition-duration: 0.5s;
+    -o-transition-duration: 0.5s;
+    -moz-transition-duration: 0.5s;
+}
+
+.menu-hover:hover {
+    transform: translate(30px, 0);
+}
+
+.domanda {
+    margin: 0% 0% 5% 0%;
+    display: inline-flex;
+    position: relative;
+}
+
+.testo-domanda {
+    padding: 0% 37% 0% 0%;
+}
+
+.freccia {
+    font-family: 'Termina', sans-serif;
+    font-size: 2.7em;
+    color: #F5F4F4;
+    line-height: normal;
+    font-weight: 100;
+    align-content: flex-end;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.testo-bio {
+    padding-right: 25%;
+}
+
+
+/*MOBILE*/
+
+@media (max-width: 900px) {
+
+    hr {
+        margin-top: 2em;
+        margin-bottom: 3em;
+    }
+
+    .relative {
+        position: relative;
+    }
+
+    .hidden {
+        display: none;
+    }
+
+    .home {
+        margin: 16px;
+        padding: 3em 1em 0em 1em;
+    }
+
+    .menu {
+        margin: 16px;
+        padding: 3em 1em 1em 1em;
+    }
+
+    .about {
+        margin: 16px;
+        padding: 3em 1em 1em 1em;
+    }
+
+    .menu-hover {
+        cursor: pointer;
+        margin: 0px;
+    }
+
+    .menu-hover:hover {
+        transform: none;
+    }
+
+    .nav-link {
+        font-size: 0.9em;
+    }
+
+    .bottone-container {
+        display: inline-block;
+    }
+
+    .bottone-subcontainer {
+        margin-bottom: 10%;
+        margin-right: 5%;
+    }
+
+    .bottone-margine {
+        margin-right: 10px;
+        margin-top: 7px;
+    }
+
+    .bottone {
+        display: inline-block;
+        font-size: 0.9em;
+        padding: 1px 10px 2px 10px;
+    }
+
+    .asterisco {
+        font-size: 0.9em;
+        margin-right: 15%;
+        line-height: 1.2;
+    }
+
+    .testo-domanda {
+        padding: 0px;
+        margin: 0px;
+        padding-right: 0;
+    }
+
+    .testo-bio {
+        padding-right: 0%;
+    }
+
+    .embed-responsive {
+        width: 96%;
+    }
+}
