@@ -13,78 +13,78 @@
 .iframe-resp-container-01 {
     position: relative;
     overflow: hidden;
-    padding-top: 47.6%;
-    width: 84%;
+    padding-top: 56.6%;
+    width: 100%;
 }
 
 .iframe-resp-container-02 {
     position: relative;
     overflow: hidden;
-    padding-top: 41%;
-    width: 84%;
+    padding-top: 48.6%;
+    width: 100%;
 }
 
 .iframe-resp-container-03 {
     position: relative;
     overflow: hidden;
-    padding-top: 44.7%;
-    width: 84%;
+    padding-top: 54%;
+    width: 100%;
 }
 
 .iframe-resp-container-04 {
     position: relative;
     overflow: hidden;
-    padding-top: 23%;
-    width: 84%;
+    padding-top: 27.5%;
+    width: 100%;
 }
 
 .iframe-resp-container-05 {
     position: relative;
     overflow: hidden;
-    padding-top: 52.6%;
-    width: 84%;
+    padding-top: 63%;
+    width: 100%;
 }
 
 .iframe-resp-container-06 {
     position: relative;
     overflow: hidden;
-    padding-top: 50%;
-    width: 84%;
+    padding-top: 59.6%;
+    width: 100%;
 }
 
 .iframe-resp-container-07 {
     position: relative;
     overflow: hidden;
-    padding-top: 51%;
-    width: 84%;
+    padding-top: 60.5%;
+    width: 100%;
 }
 
 .iframe-resp-container-08 {
     position: relative;
     overflow: hidden;
-    padding-top: 42%;
-    width: 84%;
+    padding-top: 50.5%;
+    width: 100%;
 }
 
 .iframe-resp-container-09 {
     position: relative;
     overflow: hidden;
-    padding-top: 47.5%;
-    width: 84%;
+    padding-top: 56.7%;
+    width: 100%;
 }
 
 .iframe-resp-container-10 {
     position: relative;
     overflow: hidden;
-    padding-top: 38.3%;
-    width: 84%;
+    padding-top: 46%;
+    width: 100%;
 }
 
 .iframe-resp-container-11 {
     position: relative;
     overflow: hidden;
-    padding-top: 45%;
-    width: 84%;
+    padding-top: 54%;
+    width: 100%;
 }
 
 .iframe-resp {
@@ -160,7 +160,7 @@
     margin-left: 8%;
     margin-right: 8%;
     margin-bottom: 20px;
-    width: 100%;
+    width: auto;
     height: 100%;
 }
 

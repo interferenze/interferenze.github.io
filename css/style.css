@@ -4,6 +4,11 @@ html {
 
 body {
     font-family: "Times New Roman", Times, serif;
+    overflow-x: hidden;
+}
+
+site {
+    overflow-x: hidden;
 }
 
 iframe:focus {
@@ -68,19 +73,20 @@ a:hover {
     display: inline-flex;
     top: 0;
     left: 0;
-    height: 100vh;
+    height: 110vh;
     width: auto;
     z-index: -1;
 }
 
 .video01 {
-    height: 100vh;
+    height: 110vh;
     width: auto;
     z-index: -1;
 }
 
 .video02 {
     height: 100vh;
+    margin-left: -2px;
     width: auto;
     z-index: -1;
     transform: scaleY(-1);
